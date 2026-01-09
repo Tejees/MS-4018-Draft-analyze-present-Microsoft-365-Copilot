@@ -2,6 +2,8 @@
 
 Welcome to your MS-4018: Draft, analyze, and present with Microsoft 365 Copilot workshop! We’re excited to guide you through hands-on learning with Microsoft 365 apps including PowerPoint, Word, Excel, Teams, and Outlook. It also introduces Microsoft 365 Copilot Chat and discusses the difference between work and web grounded data.
 
+## Lab 01: Build a Presentation from Start to Finish with Copilot in PowerPoint
+
 ### Overall Estimated Timing: 45 Minutes
 
 ## Overview
@@ -12,15 +14,15 @@ In this lab, you’ll gain practical experience in building a professional Power
 
 By the end of this lab, you will be able to:
 
-1. **Build a complete presentation with Copilot in PowerPoint:** Use Copilot to create, enhance, organize, and share a full presentation starting from a Word document.
+1. **Create a presentation from a Word document:** Use Copilot to automatically generate slides and content from an existing Word document.
 
-1. **Draft, improve, and summarize a document with Copilot in Word:** Use Copilot to create a professional report from a source file, refine content, convert text into tables, and generate a clear summary for sharing.
+1. **Add and enhance slides:** Generate an icebreaker slide and insert images that align with your presentation’s theme.
 
-1. **Manage team communication and meetings with Copilot:** Use Copilot in Teams and Outlook to draft, refine, and share messages, and schedule and send professional meeting invites.
+1. **Edit and refine content:** Improve text to make it more engaging and tailored to your audience.
 
-1. **Analyze data and generate insights with Copilot in Excel:** Use Copilot to explore datasets, identify trends, create visualizations, uncover correlations, and share data-driven insights with your team.
+1. **Organize slides:** Ensure logical flow and clear sequencing of topics throughout the presentation.
 
-1. **Prepare for interviews with Copilot Chat:** Use Copilot to research the interviewer and company, generate questions and answers, create an FAQ document, and draft a professional thank-you email.
+1. **Collaborate and share:** Apply corporate branding standards and optionally send a draft presentation to your manager for feedback.
 
 ## Pre-requisites
 
@@ -53,6 +55,8 @@ The lab workflow demonstrates how Copilot in PowerPoint assists in automating co
 - **PowerPoint:** Core tool for creating, designing, and presenting visual slide-based presentations.
 
 - **Copilot Integration:** AI-powered assistant embedded in Microsoft 365 apps to summarize content, generate visuals, analyze data, and draft professional text, enhancing productivity and collaboration.
+
+
 
 
 # Getting Started with lab
@@ -121,6 +125,6 @@ Learner Support Contacts:
 
 Click on **Next** from the lower right corner to move on to the next page.
 
-   ![Start Your Azure Journey](../Media/305.png)
+   ![Start Your Azure Journey](../Media/g42.png)
 
 ## Happy Learning !!

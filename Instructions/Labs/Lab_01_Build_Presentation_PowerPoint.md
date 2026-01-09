@@ -12,6 +12,7 @@ Imagine you're a marketing manager at a company called Contoso. Your team is pre
 - Task 2: Ask Copilot to help you create an icebreaker slide
 - Task 3: Insert an image
 - Task 4: Edit the text
+- Task 5: Organize the presentation
 - Task 6: Send a draft for review (Optional) 
 
 ### Lab prerequisites
@@ -36,7 +37,7 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
    - **Password:** <inject key="AzureAdUserPassword"></inject>
 
-        ![](./Media/lp4.2.png)
+        ![](./Media/lp4.1.png)
 
    - Click **No** on Stay signed in page.
 
@@ -191,7 +192,21 @@ In this task, you will use Copilot in PowerPoint to refine and improve the text 
 
     ![](./Media/ms1l26.png)
 
-### Task 5: Send a draft for review (Optional) 
+### Task 5: Organize the presentation
+
+In this task, you will use Copilot in PowerPoint to structure your slides, ensuring a logical flow and clear sequence of topics throughout the presentation.
+
+1. In the Copilot pane, enter the following prompt:
+
+   ```
+   Organize this presentation. 
+   ```
+
+1. Copilot responds, providing suggestions for each slide. You can select to update the content as you'd like or iterate your prompt to receive additional suggestions. 
+
+1. Ensure that your presentation has a logical sequence and smooth transitions between slides.
+
+### Task 6: Send a draft for review (Optional) 
 
 In this task, you will use Copilot in Outlook to draft and send an email to your manager, sharing your presentation and requesting feedback.
 
